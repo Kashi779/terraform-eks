@@ -32,3 +32,5 @@ Run `terraform plan` to see the configuration it creates when executed.
 ### Finally, Apply terraform configuation to create EKS cluster with VPC 
 
 `terraform apply`
+### Finally, destroy all the resources vpc,cluster all 
+`terraform destroy` = to destroy all the 55 resources created (important don't forget to destroy)
